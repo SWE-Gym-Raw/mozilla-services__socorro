@@ -1244,9 +1244,9 @@ semver==3.0.2 \
     --hash=sha256:6253adb39c70f6e51afed2fa7152bcd414c411286088fb4b9effb133885ab4cc \
     --hash=sha256:b1ea4686fe70b981f85359eda33199d60c53964284e0cfb4977d243e37cf4bf4
     # via -r requirements.in
-sentry-sdk==2.17.0 \
-    --hash=sha256:625955884b862cc58748920f9e21efdfb8e0d4f98cca4ab0d3918576d5b606ad \
-    --hash=sha256:dd0a05352b78ffeacced73a94e86f38b32e2eae15fff5f30ca5abb568a72eacf
+sentry-sdk==2.20.0 \
+    --hash=sha256:afa82713a92facf847df3c6f63cec71eb488d826a50965def3d7722aa6f0fdab \
+    --hash=sha256:c359a1edf950eb5e80cffd7d9111f3dbeef57994cb4415df37d39fda2cf22364
     # via
     #   -r requirements.in
     #   fillmore
